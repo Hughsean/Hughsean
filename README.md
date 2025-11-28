@@ -28,7 +28,6 @@
 
 - **LLM Integration:** `OpenAI API`, `Local LLM Deployment`, `Prompt Engineering`
 - **Agent Framework:** `LangChain` (Concepts), `Function Calling`, `ReAct Pattern`
-- **Data & RAG:** `Vector Database` (Embedding Search), `Context Management`
 
 ### 💾 数据与运维 (Data & DevOps)
 
