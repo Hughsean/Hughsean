@@ -38,7 +38,7 @@
 
 ## 🚀 核心项目经历 (Key Projects)
 
-### 1. 🧠 智能后端服务系统 ([Server](https://github.com/Hughsean/Server)) - *AI Agent 集成*
+### 1. 🧠 智能后端服务系统 ([Server](https://github.com/Hughsean/Server-Readme)) - *AI Agent 集成*
 
 > *基于 Java 21 + Spring Boot 3.4 的 AI 驱动后端基座*
 
