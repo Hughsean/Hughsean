@@ -1,7 +1,69 @@
-### Hi there 👋
+# 👨‍💻 Hughsean | 后端 & AI 应用开发工程师
 
+> 🎓 **合肥工业大学 (HFUT)** 在读 | 📍 中国·合肥
+>
+> 🚀 专注于 **后端架构**、**AI 智能体(Agent)开发** 与 **高并发系统**
 
-- 🤓 I’m currently studying at HFUT, China;
-- 📚 I’m currently major in Computer Science;
-- 📫 How to reach me: Hughsean@foxmail.com
+---
 
+## 📝 个人总结 (About Me)
+
+热衷于构建融合人工智能的现代化后端系统。精通 **Java (Spring Boot)** 与 **Rust** 开发，并在 **LLM 应用落地**与 **AI Agent 开发**方面有深入实践。致力于将大模型能力与业务逻辑深度结合，构建具备推理与执行能力的智能后端服务。
+
+- 💻 **核心竞争力:** 扎实的后端工程能力 + LLM 应用开发经验（Prompt Engineering, Agent Workflow）。
+- 🔧 **工程能力:** 熟练掌握 Docker 容器化、微服务架构及 Linux 运维，具备 AI 模型私有化部署与 API 集成经验。
+- 🌟 **技术追求:** 探索 **System 2** 思维在 AI Agent 中的实现，追求高可靠性的智能系统架构。
+
+---
+
+## 🛠️ 技术栈 (Tech Stack)
+
+### ☕ 后端核心 (Backend Core)
+
+- **Java:** `Java 21`, `Spring Boot 3.4`, `Spring AI`, `MyBatis`
+- **Rust:** `Axum`, `Tokio`, `Candle` (Rust ML framework)
+- **C++:** `Modern C++`, `High Performance Computing`
+
+### 🤖 AI 与大模型 (AI & LLM Engineering)
+
+- **LLM Integration:** `OpenAI API`, `Local LLM Deployment`, `Prompt Engineering`
+- **Agent Framework:** `LangChain` (Concepts), `Function Calling`, `ReAct Pattern`
+- **Data & RAG:** `Vector Database` (Embedding Search), `Context Management`
+
+### 💾 数据与运维 (Data & DevOps)
+
+- **Database:** `MySQL 8.0`, `Redis` (Cache & Session Store)
+- **DevOps:** `Docker`, `Docker Compose`, `Git`, `Linux Shell`
+
+---
+
+## 🚀 核心项目经历 (Key Projects)
+
+### 1. 🧠 智能后端服务系统 ([Server](https://github.com/Hughsean/Server)) - *AI Agent 集成*
+
+> *基于 Java 21 + Spring Boot 3.4 的 AI 驱动后端基座*
+
+- **AI Agent 集成:** 设计并实现了基于 **LLM** 的对话服务模块，支持多轮对话上下文管理与 **System Prompt** 动态编排（Detector/System Prompts）。
+- **业务架构:** 采用 **Spring Boot 3.4** 构建，集成 **Spring Security** 确保 AI 接口调用的安全性与用户隐私。
+- **功能亮点:** 实现了从 Prompt 模板管理到模型推理结果解析的全链路流程，具备处理复杂自然语言指令并转化为业务操作的能力。
+- **工程化:** 完整的 Docker 容器化部署，支持 MySQL 持久化业务数据与对话历史。
+
+### 2. ⚡ 高性能异步 Web 服务器 ([Axum-Server](https://github.com/Hughsean/Axum-Server))
+
+> *基于 Rust 的极致性能 Web 服务探索*
+
+- **核心特性:** 利用 **Rust** 的内存安全特性与 **Axum** 框架，构建高并发、低延迟的 API 网关，适合作为 AI 模型推理服务的接入层。
+- **性能优化:** 深入理解 **Tokio** 异步运行时，优化 I/O 密集型任务（如大模型流式响应 Streaming Response）的处理效率。
+
+### 3. 📡 多线程网络文件传输系统 ([MultiThread-FileTransferr](https://github.com/Hughsean/MultiThread-FileTransferr))
+
+> *C++ 系统级网络编程实战*
+
+- **底层功底:** 基于 **C++** 原生 Socket 实现，展示了对 TCP/IP 协议栈与多线程并发控制（Mutex/CondVar）的深刻理解，为理解分布式 AI 系统通信打下基础。
+
+---
+
+## 🧩 其他技能 (Bonus Skills)
+
+- **🎨 全栈视野:** 熟悉 **Vue.js**，独立开发过 [Client](https://github.com/Hughsean/Client) 前端，能够独立完成 Chat UI 与后端 Agent 的联调。
+- **🔬 模型微调与训练:** 拥有 [NeuralNet](https://github.com/Hughsean/NeuralNet) 与 [Iemocap](https://github.com/Hughsean/Iemocap) 项目经验，了解 PyTorch/TensorFlow 深度学习框架及数据预处理流程。
